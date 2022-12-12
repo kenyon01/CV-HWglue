@@ -1,0 +1,5 @@
+#忽略文件
+Data
+*.tif
+.idea
+__pycache__
